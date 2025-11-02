@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Ana Badea
 ---
 
 ## About Me

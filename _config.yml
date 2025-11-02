@@ -8,16 +8,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
-title_separator          : "-"
+title                    : Ana Badea
+title_separator          : "Ana Badea"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Ana Badea
+description              : Ana Badea - Projects and CV 
+baseurl                  : "/fa25-portfolio-amb675-Cornell" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
@@ -42,4 +42,3 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
