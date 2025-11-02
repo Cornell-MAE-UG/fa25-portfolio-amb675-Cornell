@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "assets\files\Ana_Badea_CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ '/assets/files/Ana_Badea_CV.pdf' | relative_url }}) in PDF format.
 
 
 **Email:** [amb675@cornell.edu](mailto:amb675@cornell.edu) | | | **Phone:** +919 869 9087
