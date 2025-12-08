@@ -1,8 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Fluid Mechanical Dissection of an Air Fryer Lid
+description: Final Project for Fluid Mechanics
 image: /assets/images/function-graph.png
 ---
 

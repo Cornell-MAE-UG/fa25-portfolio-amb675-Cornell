@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Modeling of a Pacemaker
+description: Final Project for System Dynamics
+technologies: [Matlab]
 image: /assets/images/spaceship-design.jpg
 ---
 
