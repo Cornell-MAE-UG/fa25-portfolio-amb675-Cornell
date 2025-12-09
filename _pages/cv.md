@@ -31,7 +31,7 @@ Aspiring mechanical engineer passionate about robotics, mechanical design, and i
 
 #### Skills
 **CAD:** SolidWorks, Autodesk Inventor, Fusion 360  
-**Design:** DFMA, GD&T  
+**Design:** DFMA, GD&T, ANSYS
 **Programming & Control:** Python, MATLAB, Arduino, JavaScript, HTML/CSS  
 **Fabrication & Manufacturing:** 3D Printing, Welding, Lathe, Manual Milling  
 **Documentation & Communication:** Technical Drawings, Assembly Documentation, MS Office, Confluence  
@@ -71,22 +71,8 @@ Aspiring mechanical engineer passionate about robotics, mechanical design, and i
 *February – May 2024*  
 - Integrated cameras and sensors with Arduino Uno and Mini for an agricultural robot to monitor plant health via imaging roots and intaking CO2 and humidity data.
 - Evaluated and selected optimal imaging hardware to improve surveillance clarity and ease of integration.
-  
 
 ---
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
 #### References
 Available upon request.
 

@@ -3,7 +3,7 @@ layout: project
 title: Modeling of a Pacemaker
 description: Final Project for System Dynamics
 technologies: [Matlab]
-image: /assets/images/spaceship-design.jpg
+#image: 
 ---
 
 

@@ -16,8 +16,8 @@ description              : Ana Badea - Projects and CV
 baseurl                  : "/fa25-portfolio-amb675-Cornell" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-minimal
-color_scheme: aqua # light/default, dark, or aqua
+theme: jekyll-theme-slate
+color_scheme: dark # light/default, dark, or aqua
 
 sass:
   style: compressed
@@ -39,6 +39,7 @@ kramdown:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
