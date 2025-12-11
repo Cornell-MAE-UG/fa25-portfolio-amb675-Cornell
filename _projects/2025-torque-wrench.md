@@ -5,6 +5,8 @@ description: Mechanics of Materials Final Project
 technologies: [Matlab, Fusion360, Ansys]
 image: /assets/images/mech of mats/Screenshot 2025-12-08 at 20-49-46 materials reqs & hw - Google Docs.png
 ---
+[Download our project write-up]({{ 'assets/Files/materials_final_hw.pdf' | relative_url }}) in PDF format.
+
 As the final project of mechanics of materials, we were asked to design a torque wrench. 
 
 Our wrench was to sustain a torque of T = ±600 in-lbf for 10^6 cycles and 
@@ -97,8 +99,12 @@ SGT-1LH/350-TY11 1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance ST STC Nu
 Link: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 
 
 It is sensitive enough that our strain max is 30,000 µm and has a carrier length 9.2 mm and a carrier width 4 mm, this fits in our spot as that is 0 36 in x 0.16 in.
+It should have the same k value of 2 meaningwe have the correct output in our hand calculations!
 
 ---
+##### Torque wrench sensitivity in mV/V using strains from the FEM analysis
+Sensitivity = (strain @ gauge)* 1000 = 1.4533 mV/V
+
 
 ##### FEM Results  
 - Load Point Deflection: .503 in
