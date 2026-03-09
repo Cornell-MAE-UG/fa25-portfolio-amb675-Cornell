@@ -4,7 +4,16 @@ title: Heat Transfer Homework
 description: Homework Problem for Heat Transfer
 image: /assets/images/HT_Problem_set_3.png
 ---
-<a href="{{ '\assets\Files\HeatTransfer-Problem_set_3.pdf.pdf' | relative_url }}"
+A part of homework 3 that I found very valuable and educational was the first problem, which walked us through deriving the governing equation for a rod temperature profile. Starting with an energy balance and ending with a very simple and clean equation made me really think about and understand the equation and where it comes from. Derivations in general I find to be very useful to learning as you have to look at the equation in more depth as opposed to application problems, though application problems are also useful.  
+
+
+<div style="text-align:center; margin:20px 0;">
+  <img src="{{ '/assets/images/HT_Problem_set_3.png' | relative_url }}"
+       style="max-width: 600px; width: 100%; display:block; margin:auto;" />
+</div> 
+
+
+<a href="{{ '/assets/Files/HeatTransfer-Problem_set_3.pdf' | relative_url }}"
 style="
 display:inline-block;
 padding:10px 18px;
@@ -16,15 +25,3 @@ font-weight:600;
 margin-top:10px;">
 Download Homework PDF
 </a>
-
-
-##### The Write-up
-
-A part of homework 3 that I found very valuable and educational was the first problem, which walked us through deriving the governing equation for a rod temperature profile. Starting with an energy balance and ending with a very simple and clean equation made me really think about and understand the equation and where it comes from. Derivations in general I find to be very useful to learning as you have to look at the equation in more depth as opposed to application problems, though application problems are also useful.  
-
-
-##### The Problem
-<div style="text-align:center; margin:20px 0;">
-  <img src="{{ '/assets/images/HT_Problem_set_3.png' | relative_url }}"
-       style="max-width: 600px; width: 100%; display:block; margin:auto;" />
-</div> 
